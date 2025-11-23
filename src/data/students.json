@@ -1,0 +1,17 @@
+[
+  { "regNo": "CS001", "name": "Ali Khan", "batch": "SP25", "program": "CS", "status": "Pending", "advisor": "Dr. Ahmed" },
+  { "regNo": "CS002", "name": "Sara Ahmed", "batch": "SP25", "program": "CS", "status": "Approved", "advisor": "Dr. Ahmed" },
+  { "regNo": "CS003", "name": "Usman Riaz", "batch": "FA24", "program": "CS", "status": "Rejected", "advisor": "Dr. Khan" },
+  { "regNo": "CS004", "name": "Hina Malik", "batch": "SP25", "program": "CS", "status": "Pending", "advisor": "Dr. Ahmed" },
+  { "regNo": "CS005", "name": "Zain Ali", "batch": "FA24", "program": "CS", "status": "Pending", "advisor": "Dr. Khan" },
+  { "regNo": "CS006", "name": "Maryam Noor", "batch": "SP25", "program": "CS", "status": "Approved", "advisor": "Dr. Ahmed" },
+  { "regNo": "CS007", "name": "Bilal Shah", "batch": "FA24", "program": "CS", "status": "Approved", "advisor": "Dr. Khan" },
+  { "regNo": "CS008", "name": "Ayesha Tariq", "batch": "SP25", "program": "CS", "status": "Rejected", "advisor": "Dr. Ahmed" },
+  { "regNo": "CS009", "name": "Faisal Iqbal", "batch": "FA24", "program": "CS", "status": "Pending", "advisor": "Dr. Khan" },
+  { "regNo": "CS010", "name": "Noor Fatima", "batch": "SP25", "program": "CS", "status": "Approved", "advisor": "Dr. Ahmed" },
+  { "regNo": "CS011", "name": "Hamza Tariq", "batch": "SP25", "program": "CS", "status": "Pending", "advisor": "Dr. Ahmed" },
+  { "regNo": "CS012", "name": "Sadia Qamar", "batch": "FA24", "program": "CS", "status": "Approved", "advisor": "Dr. Khan" },
+  { "regNo": "CS013", "name": "Imran Raza", "batch": "FA24", "program": "CS", "status": "Rejected", "advisor": "Dr. Khan" },
+  { "regNo": "CS014", "name": "Fatima Aslam", "batch": "SP25", "program": "CS", "status": "Pending", "advisor": "Dr. Ahmed" },
+  { "regNo": "CS015", "name": "Ahmed Shehzad", "batch": "FA24", "program": "CS", "status": "Approved", "advisor": "Dr. Khan" }
+]

@@ -1,0 +1,518 @@
+{
+  "CS": {
+    "1": [
+      {
+        "course_code": "CS101",
+        "course_title": "Intro to Programming",
+        "teacher": "Dr. Ali",
+        "schedule": [{ "day": "Mon", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "CS102",
+        "course_title": "Discrete Mathematics",
+        "teacher": "Dr. Sara",
+        "schedule": [{ "day": "Tue", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "CS103",
+        "course_title": "English Composition",
+        "teacher": "Prof. Kamal",
+        "schedule": [{ "day": "Wed", "start": "10:00", "end": "11:30" }]
+      },
+      {
+        "course_code": "CS104",
+        "course_title": "Calculus-I",
+        "teacher": "Dr. Ahmed",
+        "schedule": [{ "day": "Thu", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "CS105",
+        "course_title": "Pakistan Studies",
+        "teacher": "Dr. Imran",
+        "schedule": [{ "day": "Fri", "start": "11:00", "end": "12:30" }]
+      }
+    ],
+    "2": [
+      {
+        "course_code": "CS201",
+        "course_title": "Data Structures",
+        "teacher": "Dr. Ali",
+        "schedule": [{ "day": "Mon", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "CS202",
+        "course_title": "Object-Oriented Programming",
+        "teacher": "Dr. Sara",
+        "schedule": [{ "day": "Tue", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "CS203",
+        "course_title": "Database Systems",
+        "teacher": "Dr. Kamal",
+        "schedule": [{ "day": "Wed", "start": "12:00", "end": "13:30" }]
+      },
+      {
+        "course_code": "CS204",
+        "course_title": "Digital Logic",
+        "teacher": "Dr. Ahmed",
+        "schedule": [{ "day": "Thu", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "CS205",
+        "course_title": "Linear Algebra",
+        "teacher": "Dr. Imran",
+        "schedule": [{ "day": "Fri", "start": "09:00", "end": "10:30" }]
+      }
+    ],
+    "3": [
+      {
+        "course_code": "CS301",
+        "course_title": "Operating Systems",
+        "teacher": "Dr. Ali",
+        "schedule": [{ "day": "Mon", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "CS302",
+        "course_title": "Computer Networks",
+        "teacher": "Dr. Sara",
+        "schedule": [{ "day": "Tue", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "CS303",
+        "course_title": "Theory of Computation",
+        "teacher": "Dr. Kamal",
+        "schedule": [{ "day": "Wed", "start": "10:00", "end": "11:30" }]
+      },
+      {
+        "course_code": "CS304",
+        "course_title": "Software Engineering",
+        "teacher": "Dr. Ahmed",
+        "schedule": [{ "day": "Thu", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "CS305",
+        "course_title": "Probability & Statistics",
+        "teacher": "Dr. Imran",
+        "schedule": [{ "day": "Fri", "start": "11:00", "end": "12:30" }]
+      }
+    ],
+    "4": [
+      {
+        "course_code": "CS401",
+        "course_title": "Algorithms",
+        "teacher": "Dr. Ali",
+        "schedule": [{ "day": "Mon", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "CS402",
+        "course_title": "Compiler Construction",
+        "teacher": "Dr. Sara",
+        "schedule": [{ "day": "Tue", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "CS403",
+        "course_title": "Artificial Intelligence",
+        "teacher": "Dr. Kamal",
+        "schedule": [{ "day": "Wed", "start": "12:00", "end": "13:30" }]
+      },
+      {
+        "course_code": "CS404",
+        "course_title": "Numerical Computing",
+        "teacher": "Dr. Ahmed",
+        "schedule": [{ "day": "Thu", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "CS405",
+        "course_title": "Computer Graphics",
+        "teacher": "Dr. Imran",
+        "schedule": [{ "day": "Fri", "start": "09:00", "end": "10:30" }]
+      }
+    ],
+    "5": [
+      {
+        "course_code": "CS501",
+        "course_title": "Distributed Systems",
+        "teacher": "Dr. Ali",
+        "schedule": [{ "day": "Mon", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "CS502",
+        "course_title": "Web Technologies",
+        "teacher": "Dr. Sara",
+        "schedule": [{ "day": "Tue", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "CS503",
+        "course_title": "Parallel Computing",
+        "teacher": "Dr. Kamal",
+        "schedule": [{ "day": "Wed", "start": "10:00", "end": "11:30" }]
+      },
+      {
+        "course_code": "CS504",
+        "course_title": "Information Security",
+        "teacher": "Dr. Ahmed",
+        "schedule": [{ "day": "Thu", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "CS505",
+        "course_title": "Research Methods",
+        "teacher": "Dr. Imran",
+        "schedule": [{ "day": "Fri", "start": "11:00", "end": "12:30" }]
+      }
+    ],
+    "6": [
+      {
+        "course_code": "CS601",
+        "course_title": "Mobile Computing",
+        "teacher": "Dr. Ali",
+        "schedule": [{ "day": "Mon", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "CS602",
+        "course_title": "Big Data Analytics",
+        "teacher": "Dr. Sara",
+        "schedule": [{ "day": "Tue", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "CS603",
+        "course_title": "Cloud Computing",
+        "teacher": "Dr. Kamal",
+        "schedule": [{ "day": "Wed", "start": "12:00", "end": "13:30" }]
+      },
+      {
+        "course_code": "CS604",
+        "course_title": "Software Project Management",
+        "teacher": "Dr. Ahmed",
+        "schedule": [{ "day": "Thu", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "CS605",
+        "course_title": "Entrepreneurship",
+        "teacher": "Dr. Imran",
+        "schedule": [{ "day": "Fri", "start": "09:00", "end": "10:30" }]
+      }
+    ],
+    "7": [
+      {
+        "course_code": "CS701",
+        "course_title": "Machine Learning",
+        "teacher": "Dr. Ali",
+        "schedule": [{ "day": "Mon", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "CS702",
+        "course_title": "Deep Learning",
+        "teacher": "Dr. Sara",
+        "schedule": [{ "day": "Tue", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "CS703",
+        "course_title": "IoT Systems",
+        "teacher": "Dr. Kamal",
+        "schedule": [{ "day": "Wed", "start": "10:00", "end": "11:30" }]
+      },
+      {
+        "course_code": "CS704",
+        "course_title": "Human-Computer Interaction",
+        "teacher": "Dr. Ahmed",
+        "schedule": [{ "day": "Thu", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "CS705",
+        "course_title": "Natural Language Processing",
+        "teacher": "Dr. Imran",
+        "schedule": [{ "day": "Fri", "start": "11:00", "end": "12:30" }]
+      }
+    ],
+    "8": [
+      {
+        "course_code": "CS801",
+        "course_title": "Final Year Project-I",
+        "teacher": "Supervisor",
+        "schedule": [{ "day": "Mon", "start": "14:00", "end": "16:00" }]
+      },
+      {
+        "course_code": "CS802",
+        "course_title": "Advanced Database",
+        "teacher": "Dr. Sara",
+        "schedule": [{ "day": "Tue", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "CS803",
+        "course_title": "Cyber Security",
+        "teacher": "Dr. Kamal",
+        "schedule": [{ "day": "Wed", "start": "12:00", "end": "13:30" }]
+      },
+      {
+        "course_code": "CS804",
+        "course_title": "Data Science",
+        "teacher": "Dr. Ahmed",
+        "schedule": [{ "day": "Thu", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "CS805",
+        "course_title": "Cloud Security",
+        "teacher": "Dr. Imran",
+        "schedule": [{ "day": "Fri", "start": "09:00", "end": "10:30" }]
+      }
+    ]
+  },
+  "AI": {
+    "1": [
+      {
+        "course_code": "AI101",
+        "course_title": "Intro to AI",
+        "teacher": "Dr. Ayesha",
+        "schedule": [{ "day": "Mon", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "AI102",
+        "course_title": "Math for AI",
+        "teacher": "Dr. Bilal",
+        "schedule": [{ "day": "Tue", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "AI103",
+        "course_title": "Programming Fundamentals",
+        "teacher": "Dr. Hina",
+        "schedule": [{ "day": "Wed", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "AI104",
+        "course_title": "Ethics in AI",
+        "teacher": "Prof. Rizwan",
+        "schedule": [{ "day": "Thu", "start": "12:00", "end": "13:30" }]
+      },
+      {
+        "course_code": "AI105",
+        "course_title": "Communication Skills",
+        "teacher": "Dr. Ali",
+        "schedule": [{ "day": "Fri", "start": "10:00", "end": "11:30" }]
+      }
+    ],
+    "2": [
+      {
+        "course_code": "AI201",
+        "course_title": "Machine Learning",
+        "teacher": "Dr. Ayesha",
+        "schedule": [{ "day": "Mon", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "AI202",
+        "course_title": "Neural Networks",
+        "teacher": "Dr. Bilal",
+        "schedule": [{ "day": "Tue", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "AI203",
+        "course_title": "Data Mining",
+        "teacher": "Dr. Hina",
+        "schedule": [{ "day": "Wed", "start": "12:00", "end": "13:30" }]
+      },
+      {
+        "course_code": "AI204",
+        "course_title": "Computer Vision",
+        "teacher": "Prof. Rizwan",
+        "schedule": [{ "day": "Thu", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "AI205",
+        "course_title": "Probability & Stats",
+        "teacher": "Dr. Ali",
+        "schedule": [{ "day": "Fri", "start": "09:00", "end": "10:30" }]
+      }
+    ],
+    "3": [
+      {
+        "course_code": "AI301",
+        "course_title": "Reinforcement Learning",
+        "teacher": "Dr. Ayesha",
+        "schedule": [{ "day": "Mon", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "AI302",
+        "course_title": "Natural Language Processing",
+        "teacher": "Dr. Bilal",
+        "schedule": [{ "day": "Tue", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "AI303",
+        "course_title": "Robotics",
+        "teacher": "Dr. Hina",
+        "schedule": [{ "day": "Wed", "start": "10:00", "end": "11:30" }]
+      },
+      {
+        "course_code": "AI304",
+        "course_title": "Fuzzy Logic",
+        "teacher": "Prof. Rizwan",
+        "schedule": [{ "day": "Thu", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "AI305",
+        "course_title": "Knowledge Representation",
+        "teacher": "Dr. Ali",
+        "schedule": [{ "day": "Fri", "start": "11:00", "end": "12:30" }]
+      }
+    ],
+    "4": [
+      {
+        "course_code": "AI401",
+        "course_title": "Advanced ML",
+        "teacher": "Dr. Ayesha",
+        "schedule": [{ "day": "Mon", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "AI402",
+        "course_title": "Computer Vision-II",
+        "teacher": "Dr. Bilal",
+        "schedule": [{ "day": "Tue", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "AI403",
+        "course_title": "Speech Processing",
+        "teacher": "Dr. Hina",
+        "schedule": [{ "day": "Wed", "start": "12:00", "end": "13:30" }]
+      },
+      {
+        "course_code": "AI404",
+        "course_title": "AI in Healthcare",
+        "teacher": "Prof. Rizwan",
+        "schedule": [{ "day": "Thu", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "AI405",
+        "course_title": "Data Visualization",
+        "teacher": "Dr. Ali",
+        "schedule": [{ "day": "Fri", "start": "09:00", "end": "10:30" }]
+      }
+    ],
+    "5": [
+      {
+        "course_code": "AI501",
+        "course_title": "Deep Reinforcement Learning",
+        "teacher": "Dr. Ayesha",
+        "schedule": [{ "day": "Mon", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "AI502",
+        "course_title": "AI Planning",
+        "teacher": "Dr. Bilal",
+        "schedule": [{ "day": "Tue", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "AI503",
+        "course_title": "Explainable AI",
+        "teacher": "Dr. Hina",
+        "schedule": [{ "day": "Wed", "start": "10:00", "end": "11:30" }]
+      },
+      {
+        "course_code": "AI504",
+        "course_title": "Edge AI",
+        "teacher": "Prof. Rizwan",
+        "schedule": [{ "day": "Thu", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "AI505",
+        "course_title": "AI in Finance",
+        "teacher": "Dr. Ali",
+        "schedule": [{ "day": "Fri", "start": "11:00", "end": "12:30" }]
+      }
+    ],
+    "6": [
+      {
+        "course_code": "AI601",
+        "course_title": "AI & Society",
+        "teacher": "Dr. Ayesha",
+        "schedule": [{ "day": "Mon", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "AI602",
+        "course_title": "Generative Models",
+        "teacher": "Dr. Bilal",
+        "schedule": [{ "day": "Tue", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "AI603",
+        "course_title": "AI for IoT",
+        "teacher": "Dr. Hina",
+        "schedule": [{ "day": "Wed", "start": "12:00", "end": "13:30" }]
+      },
+      {
+        "course_code": "AI604",
+        "course_title": "Recommender Systems",
+        "teacher": "Prof. Rizwan",
+        "schedule": [{ "day": "Thu", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "AI605",
+        "course_title": "AI in Robotics",
+        "teacher": "Dr. Ali",
+        "schedule": [{ "day": "Fri", "start": "09:00", "end": "10:30" }]
+      }
+    ],
+    "7": [
+      {
+        "course_code": "AI701",
+        "course_title": "Advanced NLP",
+        "teacher": "Dr. Ayesha",
+        "schedule": [{ "day": "Mon", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "AI702",
+        "course_title": "AI for Big Data",
+        "teacher": "Dr. Bilal",
+        "schedule": [{ "day": "Tue", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "AI703",
+        "course_title": "AI Ethics",
+        "teacher": "Dr. Hina",
+        "schedule": [{ "day": "Wed", "start": "10:00", "end": "11:30" }]
+      },
+      {
+        "course_code": "AI704",
+        "course_title": "AI in Games",
+        "teacher": "Prof. Rizwan",
+        "schedule": [{ "day": "Thu", "start": "09:00", "end": "10:30" }]
+      },
+      {
+        "course_code": "AI705",
+        "course_title": "Quantum AI",
+        "teacher": "Dr. Ali",
+        "schedule": [{ "day": "Fri", "start": "11:00", "end": "12:30" }]
+      }
+    ],
+    "8": [
+      {
+        "course_code": "AI801",
+        "course_title": "Final Year Project-II",
+        "teacher": "Supervisor",
+        "schedule": [{ "day": "Mon", "start": "14:00", "end": "16:00" }]
+      },
+      {
+        "course_code": "AI802",
+        "course_title": "Reinforcement Learning-II",
+        "teacher": "Dr. Bilal",
+        "schedule": [{ "day": "Tue", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "AI803",
+        "course_title": "AI for Healthcare",
+        "teacher": "Dr. Hina",
+        "schedule": [{ "day": "Wed", "start": "12:00", "end": "13:30" }]
+      },
+      {
+        "course_code": "AI804",
+        "course_title": "Autonomous Systems",
+        "teacher": "Prof. Rizwan",
+        "schedule": [{ "day": "Thu", "start": "11:00", "end": "12:30" }]
+      },
+      {
+        "course_code": "AI805",
+        "course_title": "AI Security",
+        "teacher": "Dr. Ali",
+        "schedule": [{ "day": "Fri", "start": "09:00", "end": "10:30" }]
+      }
+    ]
+  }
+}
